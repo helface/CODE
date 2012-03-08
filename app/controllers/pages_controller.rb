@@ -1,6 +1,11 @@
 class PagesController < ApplicationController
+  def find
+  end
+
   def home
-    @title = "Home"
+  end
+
+  def about
   end
 
 end
